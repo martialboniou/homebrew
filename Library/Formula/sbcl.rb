@@ -1,9 +1,9 @@
 require 'formula'
 
 class SbclBootstrapBinaries < Formula
-  url 'http://downloads.sourceforge.net/project/sbcl/sbcl/1.0.49/sbcl-1.0.49-x86-darwin-binary.tar.bz2'
-  md5 '6ffae170cfa0f1858efb37aa7544aba6'
-  version "1.0.49"
+  url 'http://downloads.sourceforge.net/project/sbcl/sbcl/1.0.55/sbcl-1.0.55-x86-darwin-binary.tar.bz2'
+  md5 '941351112392a77dd62bdcb9fb62e4e4'
+  version "1.0.55"
 end
 
 class Sbcl < Formula
